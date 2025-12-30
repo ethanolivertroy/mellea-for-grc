@@ -1,0 +1,3 @@
+[submodule "mellea"]
+	path = mellea
+	url = https://github.com/generative-computing/mellea.git
