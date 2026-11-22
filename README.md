@@ -1,5 +1,7 @@
 # Mellea for GRC
 
+> **Project moved.** The GRC tutorial notebook (`grc-tutorial.ipynb`), its README, and `.gitignore` moved to [Open Control Tools](https://github.com/ethanolivertroy/open-ctrl-tools) under `mellea-for-grc/`. This archive retains the `mellea` submodule pointer and its `.gitmodules` configuration. The pinned submodule commit was unavailable during migration. The tutorial’s setup instructions install Mellea separately.
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ethanolivertroy/mellea-for-grc/blob/main/grc-tutorial.ipynb)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 
